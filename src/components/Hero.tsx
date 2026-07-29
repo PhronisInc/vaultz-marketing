@@ -1,4 +1,4 @@
-const APP_URL = "https://app.vaultz.io";
+const APP_URL = "https://app.vltz.io";
 
 export function Hero() {
   return (

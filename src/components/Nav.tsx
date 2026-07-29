@@ -1,5 +1,5 @@
-const APP_URL = "https://app.vaultz.io";
-const GITHUB_URL = "https://github.com/vaultz-io";
+const APP_URL = "https://app.vltz.io";
+const GITHUB_URL = "https://github.com/PhronisInc/vaultz";
 
 export function Nav() {
   return (

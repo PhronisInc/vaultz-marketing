@@ -1,9 +1,9 @@
 # vaultz-marketing
 
-The explainer/marketing site for [Vaultz](https://github.com/vaultz-io) — a permissionless
+The explainer/marketing site for [Vaultz](https://github.com/PhronisInc/vaultz) — a permissionless
 anti-snipe presale vault protocol on Robinhood Chain. Static content only: no wallet connection,
 no financial interaction. The actual product lives in the separate `vaultz-app` repo
-(app.vaultz.io); the contracts live in `vaultz`.
+(app.vltz.io); the contracts live in `vaultz`.
 
 ## Develop
 
@@ -29,4 +29,4 @@ in the Netlify dashboard, or deploy manually:
 npx netlify deploy --prod
 ```
 
-Point the `vaultz.io` domain at the Netlify site once connected.
+Point the `vltz.io` domain at the Netlify site once connected.
